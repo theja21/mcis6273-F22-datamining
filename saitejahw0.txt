@@ -1,0 +1,39 @@
+1. 3 things that i learnd from this podcast asre
+
+* I was truly entranced by medical services and how doctors utilize clinical records 
+to track and archive their work. It's this truly information driven area. Yet, it's truly 
+difficult to get into. You can't actually say, gracious, let me simply hack on your venture
+programming framework in the emergency clinic. I simply like to change it in as such and 
+check whether that makes it simpler to really focus on patients. One, the product frameworks
+are really complicated and managed, and you have patient gamble there too. Thus, I turned and
+took a gander at another very information driven space, information examination.
+
+* An extraordinary aspect regarding Jupyter is they have the note pad itself, sort of its front end.
+In any case, I consider some the really enduring effect from Jupyter may be only the norms that they
+set, about how are we going to send messages to and fro to a bit, what's the journal design, and the 
+quite certain JSON structure. Thus, as it were, they're practically similar to a guidelines setter 
+like World Wide Web Consortium, HTML or different things. This is exactly how logical registering 
+or information examination ought to be recorded and shared. Thus various different gatherings have
+come and based on top of Jupyter and those principles.
+
+* I consider one the other fascinating things that we took a gander at was, demonstration of the 
+Python environments, we said OK, what are the bundles that individuals are bringing in? Also, simply
+tracking down by far most, around 90% or so of these journals are bringing in outside bundles. Things
+like Pandas, NumPy, Matplotlib, were bringing in 66% or a greater amount of them. In this way, simply
+the information science framework that is being given is a truly center part. It's not simply having
+the scratch pad like Jupyter. It's having the Python environment to have the option to make it happen.
+
+2. After listening to the podcast I'm really facinated about notebooks and how it works and the 
+repesentation in JSON format, Jupyter Notebook is platform-independent as well as language-independent.
+Another reason is that Jupyter can be processed by any several languages, and can be converted to any
+file formats such as Markdown, HTML, PDF.
+
+*We can see both the code and the results at the same time.
+*It's easy to use other people's work as a starting point.
+* It's very easy to host server side, which is useful for security purposes.
+
+3. After listening to the pocast. I'm really intrested in juyper notebook. the way it is more
+flexible and User-friendly.
+ Notebook environments like Jupyter notebook are going to increasingly become the core infrastructure
+ for data analysis, both in industry, and academia, and journalism that have just proven so valuable as
+ their iterative programming environment and for presenting results.
